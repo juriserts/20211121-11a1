@@ -8,3 +8,5 @@ Pārbaudiet vai programma strādā pareizi, saglabājiet, izveidojiet COMMIT, no
 
 print("Mans vārds ir Juris")
 print("Mans vārds ir laura")
+print("Mans vārds ir Mārtīņš!")
+print("Mans vārds ir Emīls")

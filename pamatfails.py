@@ -7,6 +7,67 @@ Pārbaudiet vai programma strādā pareizi, saglabājiet, izveidojiet COMMIT, no
 """
 
 print("Mans vārds ir Juris")
+print("Mans vārds ir Mārtīņš!")
+print("Mans vārds ir Emīls")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 print("Mans vārds ir Arnis")
-

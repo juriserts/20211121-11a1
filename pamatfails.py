@@ -7,7 +7,8 @@ Pārbaudiet vai programma strādā pareizi, saglabājiet, izveidojiet COMMIT, no
 """
 
 print("Mans vārds ir Juris")
-print("Mans vārds ir patrīcija")
-print("Mans vārds ir Mārtīņš!")
+print("Mans vārds ir Patrīcija")
+print("Mans vārds ir Laura")
+print("Mans vārds ir Mārtiņš!")
 print("Mans vārds ir Emīls")
 

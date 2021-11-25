@@ -13,4 +13,4 @@ print("Mans vārds ir Patrīcija")
 print("Mans vārds ir Laura")
 print("Mans vārds ir Mārtiņš!")
 print("Mans vārds ir Emīls")
-
+print("Mans vārds ir Arnis")
